@@ -22,7 +22,7 @@ public class iOS_Support_PR_Test : MonoBehaviour {
     }
 
     private void CallbackReceived() {
-        //statusText = CALLBACK_RECEIVED;
+        statusText = CALLBACK_RECEIVED;
     }
 
     private void OnGUI() {
